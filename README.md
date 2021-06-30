@@ -1,1 +1,3 @@
-# simple-calculator
+# Simple JavaScript Calculator
+
+- Made with clear Javascript
